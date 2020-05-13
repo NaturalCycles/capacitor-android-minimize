@@ -1,7 +1,7 @@
 {
   "name": "android-minimize",
   "version": "0.0.1",
-  "description": "Minimize Android app",
+  "description": "Ionic Capacitor plugin for minimizing Android apps",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
@@ -10,7 +10,7 @@
     "watch": "tsc --watch",
     "prepublishOnly": "npm run build"
   },
-  "author": "",
+  "author": "Natural Cycles",
   "license": "MIT",
   "dependencies": {
     "@capacitor/core": "latest"
@@ -39,6 +39,6 @@
     "url": "https://github.com/NaturalCycles/capacitor-android-minimize"
   },
   "bugs": {
-    "url": "''/issues"
+    "url": "https://github.com/NaturalCycles/capacitor-android-minimize/issues"
   }
 }
