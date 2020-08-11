@@ -1,5 +1,5 @@
 {
-  "name": "android-minimize",
+  "name": "capacitor-android-minimize",
   "version": "0.0.1",
   "description": "Ionic Capacitor plugin for minimizing Android apps",
   "main": "dist/esm/index.js",
